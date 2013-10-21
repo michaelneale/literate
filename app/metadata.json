@@ -1,0 +1,9 @@
+{
+    "apps": {
+        "plugins": [
+            {   "name" : "docker",
+                "src": "https://s3.amazonaws.com/cloudbees-downloads/simple_http_clickstack.zip"
+            }
+        ]
+    }
+}
